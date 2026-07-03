@@ -125,16 +125,6 @@ Analyses delays between the decision to admit a patient and actual admission, ac
 
 ---
 
-## Repository Structure
-
-```
-├── data/                
-├── pbix/                
-├── screenshots/          
-└── README.md
-```
-
----
 
 ## Limitations & Notes
 
