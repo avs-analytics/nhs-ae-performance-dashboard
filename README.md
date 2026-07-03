@@ -33,7 +33,7 @@ The dashboard helps answer questions such as:
 
 
 **Page 2 - Admission Delays (DTA)**
-![Admission delays dashboard](screenshots/NHS_AE_Project_2.png)
+![Admission delays dashboard](screenshots/NHS_AE_Project_1_2.png)
 
 
 ---
