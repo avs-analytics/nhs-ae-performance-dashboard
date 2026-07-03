@@ -128,9 +128,9 @@ Analyses delays between the decision to admit a patient and actual admission, ac
 ## Repository Structure
 
 ```
-├── data/                # Raw/source Excel files (or link to NHS source, if not included)
-├── pbix/                # Power BI project file (.pbix)
-├── screenshots/          # Dashboard screenshots used in this README
+├── data/                
+├── pbix/                
+├── screenshots/          
 └── README.md
 ```
 
