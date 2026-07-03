@@ -23,16 +23,17 @@ The dashboard helps answer questions such as:
 
 ---
 
+
 ## Screenshots
 
 
 **Page 1 - 4-Hour Waiting Standard Performance**
-![4-hour waiting standard dashboard](screenshots/NHS_AE_Project_1_1.png)
+![4-hour waiting standard dashboard](screenshots/NHS_AE_Project_1.png)
 
 
 
 **Page 2 - Admission Delays (DTA)**
-![Admission delays dashboard](screenshots/NHS_AE_Project_2_1.png)
+![Admission delays dashboard](screenshots/NHS_AE_Project_2.png)
 
 
 ---
