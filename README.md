@@ -23,6 +23,21 @@ The dashboard helps answer questions such as:
 
 ---
 
+## Screenshots
+
+
+**Page 1 - 4-Hour Waiting Standard Performance**
+![4-hour waiting standard dashboard](screenshots/NHS_AE_Project_1_1.png)
+
+
+
+**Page 2 - Admission Delays (DTA)**
+![Admission delays dashboard](screenshots/NHS_AE_Project_2_1.png)
+
+
+---
+
+
 ## Dataset
 
 **Source:** [NHS England public statistical datasets](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
@@ -100,19 +115,6 @@ Analyses delays between the decision to admit a patient and actual admission, ac
 
 ---
 
-## Screenshots
-
-
-**Page 1 - 4-Hour Waiting Standard Performance**
-![4-hour waiting standard dashboard](screenshots/NHS_AE_Project_1_1.png)
-
-
-
-**Page 2 - Admission Delays (DTA)**
-![Admission delays dashboard](screenshots/NHS_AE_Project_2_1.png)
-
-
----
 
 ## Tools & Skills
 
