@@ -102,17 +102,11 @@ Analyses delays between the decision to admit a patient and actual admission, ac
 
 ## Screenshots
 
-**Page 1 - 4-Hour Waiting Standard Performance overall**
+**Page 1 - 4-Hour Waiting Standard Performance**
 ![4-hour waiting standard dashboard](screenshots/NHS_AE_Project_1_1.png)
 
-**Page 2 - 4-Hour Waiting Standard Performance in selected hospital**
-![4-hour waiting standard dashboard](screenshots/NHS_AE_Project_1_2.png)
-
-**Page 3 - Admission Delays (DTA) overall**
+**Page 2 - Admission Delays (DTA)**
 ![Admission delays dashboard](screenshots/NHS_AE_Project_2_1.png)
-
-**Page 4 - Admission Delays (DTA) in selected hospital**
-![Admission delays dashboard](screenshots/NHS_AE_Project_2_2.png)
 
 ---
 
